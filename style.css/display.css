@@ -1,0 +1,11 @@
+article,section{
+    background-color:yellowgreen ;
+    margin: 20px;
+    border: 20px solid brown;
+    padding: 30px;
+    text-align: center;
+    }
+b{
+    border: 2px solid red;
+}    
+    

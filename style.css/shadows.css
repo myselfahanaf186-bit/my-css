@@ -1,0 +1,26 @@
+article{
+    background-color: burlywood;
+    border: 15px solid yellow;
+    margin: 40px;
+    padding: 20px;
+    width: 400px;
+    text-align: center;
+    box-shadow: 30px 20px 50px black;
+
+}
+#top {
+    background-image: url("forest.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    height: 500px;
+    width: 830px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Vertical center */
+    align-items: center;     /* Horizontal center */
+
+    text-align: center;
+}
